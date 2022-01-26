@@ -8,11 +8,18 @@ public class RESTAPITest {
 	public void postJira()
 	{
 		System.out.println("postJira");
+		System.out.println("postJirabeginning");
+		System.out.println("postJiraending");
+		
 	}
 	
 	@Test
 	public void deleteTwitter()
 	{
-		System.out.println("deleteTwitter");	
+		System.out.println("deleteTwitter");
+		System.out.println("Twitteraccount");
+		System.out.println("hackedTwitter");
+		
+		
 	}
 }
